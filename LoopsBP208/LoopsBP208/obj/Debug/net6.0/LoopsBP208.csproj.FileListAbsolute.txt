@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\bin\Debug\net6.0\LoopsBP208.exe
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\bin\Debug\net6.0\LoopsBP208.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\bin\Debug\net6.0\LoopsBP208.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\bin\Debug\net6.0\LoopsBP208.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\bin\Debug\net6.0\LoopsBP208.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\refint\LoopsBP208.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\LoopsBP208.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsBP208\LoopsBP208\obj\Debug\net6.0\ref\LoopsBP208.dll
