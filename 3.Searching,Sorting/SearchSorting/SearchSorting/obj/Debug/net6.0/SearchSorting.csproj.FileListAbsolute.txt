@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\bin\Debug\net6.0\SearchSorting.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\bin\Debug\net6.0\SearchSorting.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\bin\Debug\net6.0\SearchSorting.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\bin\Debug\net6.0\SearchSorting.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\bin\Debug\net6.0\SearchSorting.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\refint\SearchSorting.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\SearchSorting.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchSorting\SearchSorting\obj\Debug\net6.0\ref\SearchSorting.dll
