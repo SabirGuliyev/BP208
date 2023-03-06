@@ -1,0 +1,22 @@
+/* #p1{
+    color: blue;
+    
+ }
+ .colored{
+    color: blueviolet;
+ }
+ .yellow-colored{
+    color: yellow;
+    font-size: larger;
+ }
+ p{
+    color: brown;
+ } */
+
+ /* .danger{
+    color: red;
+ } */
+
+ .custom-row{
+    display: flex;
+ }
