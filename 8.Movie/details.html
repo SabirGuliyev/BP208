@@ -57,9 +57,8 @@
         let getId=window.location.search.slice(4)
 
         axios.get(`https://api.tvmaze.com/shows/`+ getId)
-        .then(function (aide) {
-            body.innerHTML+=`<h1>${aide.data.name}<\h1>`
-        // console.log(response.data);
+        .then(function (response) {
+            body.innerHTML+=`<h1>${response.data.name}<\h1>`
          })
 
 
